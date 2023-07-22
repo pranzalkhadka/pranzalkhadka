@@ -1,6 +1,5 @@
 - 👋 Hi, I’m pranjalkhadka
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me pranzalkhadka1@gmail.com
 
