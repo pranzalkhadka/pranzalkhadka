@@ -1,6 +1,7 @@
 - 👋 Hi, I’m pranjalkhadka
 - 👀 I’m interested in Machine Learning
 - 💞️ I’m looking to collaborate on ML Projects
+- I am currently laerning MLOps
 - 📫 How to reach me pranzalkhadka1@gmail.com
 
 <!---
