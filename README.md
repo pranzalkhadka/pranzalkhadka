@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Implementing the transformer paper from scratch](https://github.com/pranzalkhadka/Attention-Was-All-I-Needed)
 
-- 💬 Ask me about **python, Machine Learning, NLP, transformers**
+- 💬 Ask me about **Python, Machine Learning, NLP, Transformers**
 
 - 📫 How to reach me **pranzalkhadka1@gmail.com**
 
