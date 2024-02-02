@@ -19,8 +19,6 @@
 <a href="https://fb.com/pranjal.khadka.108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranjal khadka" height="30" width="40" /></a>
 <a href="https://instagram.com/pranzaloft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranzaloft" height="30" width="40" /></a>
 <a href="https://medium.com/@khadkapranzal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khadkapranzal2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pranjalkhadka2520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranjal khadka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranzalkhadka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranzalkhadka1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranjalkhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjalkhadka" height="30" width="40" /></a>
 </p>
 
