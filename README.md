@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranzalkhadka1@gmail.com**
 
-- 📝 Check out my blogs on [Medium](https://medium.com/@pranjalkhadka) 
+- 📝 Check out my articles on [Medium](https://medium.com/@pranjalkhadka) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
