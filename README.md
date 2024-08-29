@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Khadka</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Nepal</h3>
+<h3 align="center">A Machine Learning Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranzalkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="pranzalkhadka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranzaldehyde" target="blank"><img src="https://img.shields.io/twitter/follow/pranzaldehyde?logo=twitter&style=for-the-badge" alt="pranzaldehyde" /></a> </p>
 
-- 🔭 I’m currently working on [Implementing the transformer paper from scratch](https://github.com/pranzalkhadka/Attention-Was-All-I-Needed)
+- 🔭 I’m currently working as [Research Intern at Nepal Applied Mathematics and Informatics Institute for research](https://www.naamii.org.np/)
 
 - 💬 Ask me about **Python, Machine Learning, NLP, Language Models**
 
