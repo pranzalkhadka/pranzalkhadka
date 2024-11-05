@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Research Intern at [Nepal Applied Mathematics and Informatics Institute for research](https://www.naamii.org.np/)
 
-- 💬 Ask me about **Python, Machine Learning, NLP, Language Models**
+- 💬 Let's talk about **Machine Learning, NLP, Language Models**
 
 - 📫 How to reach me **pranzalkhadka1@gmail.com**
 
