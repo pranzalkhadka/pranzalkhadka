@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranzaldehyde" target="blank"><img src="https://img.shields.io/twitter/follow/pranzaldehyde?logo=twitter&style=for-the-badge" alt="pranzaldehyde" /></a> </p>
 
-- 🔭 I’m currently working as Research Intern at [Nepal Applied Mathematics and Informatics Institute for research](https://www.naamii.org.np/)
+- 🔭 I’m currently working as AI Engineer at [Fizanto](https://fizanto.co.uk/)
 
-- 💬 Let's talk about **Machine Learning, NLP, Language Models**
+- 💬 Let's talk about **Computer Vision, Vision Language Model**
 
 - 📫 How to reach me **pranzalkhadka1@gmail.com**
 
