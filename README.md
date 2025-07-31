@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as AI Engineer at [Fizanto](https://fizanto.co.uk/)
 
-- 💬 Let's talk about **Computer Vision, Vision Language Model**
+- 💬 Let's talk about **Computer Vision, Vision Language Model, LLM, Agentic AI**
 
 - 📫 How to reach me **pranzalkhadka1@gmail.com**
 
