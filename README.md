@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/pranzaldehyde" target="blank"><img src="https://img.shields.io/twitter/follow/pranzaldehyde?logo=twitter&style=for-the-badge" alt="pranzaldehyde" /></a> </p>
 
-- 🔭 I’m currently working as AI Engineer at [Fizanto](https://fizanto.co.uk/)
+-  I’m a founding AI Engineer at [Fizanto](https://fizanto.co.uk/)
 
-- 💬 Let's talk about **Computer Vision, Vision Language Model, LLM, Agentic AI**
+-  I’m worked as a research intern at [NAAMII](https://www.naamii.org.np/) during my final undergraduate year
 
-- 📫 How to reach me **pranzalkhadka1@gmail.com**
+-  Let's talk about **Computer Vision, Vision Language Model, LLM, Agentic AI**
 
-- 📝 Check out my articles on [Medium](https://medium.com/@pranjalkhadka) 
+-  How to reach me **pranzalkhadka1@gmail.com**
+
+-  Check out my articles on [Medium](https://medium.com/@pranjalkhadka) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
