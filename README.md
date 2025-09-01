@@ -7,7 +7,7 @@
 
 -  I’m a founding AI Engineer at [Fizanto](https://fizanto.co.uk/)
 
--  I’m worked as a research intern at [NAAMII](https://www.naamii.org.np/) during my final undergraduate year
+-  I worked as a research intern at [NAAMII](https://www.naamii.org.np/) during my final undergraduate year
 
 -  Let's talk about **Computer Vision, Vision Language Model, LLM, Agentic AI**
 
