@@ -9,7 +9,7 @@
 
 -  I worked as a research intern at [NAAMII](https://www.naamii.org.np/) during my final undergraduate year
 
--  Let's talk about **Computer Vision, Vision Language Model, LLM, Agentic AI**
+-  Let's talk about **Computer Vision, NLP, Multimodal Learning, LLM, Agentic AI**
 
 -  How to reach me **pranzalkhadka1@gmail.com**
 
