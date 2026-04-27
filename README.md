@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranzaldehyde" target="blank"><img src="https://img.shields.io/twitter/follow/pranzaldehyde?logo=twitter&style=for-the-badge" alt="pranzaldehyde" /></a> </p>
 
--  I’m a founding AI Engineer at [Fizanto](https://fizanto.co.uk/)
+-  I’m an AI Engineer at [Bright Sterling](https://brightsterling.com/)
 
 -  I worked as a research intern at [NAAMII](https://www.naamii.org.np/) during my final undergraduate year
 
